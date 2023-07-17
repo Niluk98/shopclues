@@ -1,0 +1,4 @@
+2023-07-16T10:12:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\shopclues\wp-content\plugins\elementor\modules\generator-tag\module.php on line 8
+
+2023-07-16T10:17:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\shopclues\wp-content\plugins\elementor\includes\widgets\toggle.php on line 4
+
